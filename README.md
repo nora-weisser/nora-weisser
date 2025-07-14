@@ -38,8 +38,8 @@ Outside of work, I stay active in the tech community. I lead study groups, mento
 
 ## 👩‍💻 Community & Open Source
 
-- 🛠 Contributor to open-source projects for the **Women Coding Community**, helping test and build features for both backend and frontend. Maintaining test automation frameworks. 
-- 📚 [Mentoring community members in software testing and automation best practices](https://www.womencodingcommunity.com/mentors?keywords=Eleonora%20Belova).
+- Contributor to open-source projects for the **Women Coding Community**, helping test and build features for both backend and frontend. Maintaining test automation frameworks. 
+- [Mentoring community members in software testing and automation best practices](https://www.womencodingcommunity.com/mentors?keywords=Eleonora%20Belova).
 - Organizing and facilitating the API Test Automation Study Group.
 
 - Share knowledge through [my blog](https://noraweisser.com/) focused on testing, automation, and engineering culture
