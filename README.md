@@ -28,7 +28,7 @@ Outside of work, I stay active in the tech community by leading study groups, [m
 
 ## 📂 Featured Projects
 
-### [Playwright Test Automation with Typescript](https://github.com/nora-weisser/playwright-typescript)
+### [Playwright Test Automation with Typescript](https://github.com/nora-weisser/playwright-magneto-automation)
 
 ### [API Testing with PactumJS](https://github.com/nora-weisser/api_testing_with_pactumjs)
 
