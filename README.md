@@ -28,11 +28,20 @@ Outside of work, I stay active in the tech community by leading study groups, [m
 
 ## 📂 Featured Projects
 
-### [Playwright Test Automation with Typescript](https://github.com/nora-weisser/playwright-magneto-automation)
+### [Pytest API Framework](https://github.com/nora-weisser/pytest_api_framework)
+Modular API test automation framework using **Pytest**, **Allure**, **Pydantic**, and **Faker**. Covers authentication, booking, and room APIs with schema validation and reusable api helpers.
+
+### [RestAssured API Framework with Cucumber](https://github.com/nora-weisser/RestAssured_Cucumber)
+BDD-style API test framework built with **RestAssured**, **Cucumber**, and **JUnit**. Includes feature files, step definitions, and data-driven testing.
+
+### [Playwright Test Automation with TypeScript](https://github.com/nora-weisser/playwright-magneto-automation)
+E2E automation suite using **Playwright**, **TypeScript**, **Faker** for a Magento-based web application. Includes login, cart, and checkout flows.
 
 ### [API Testing with PactumJS](https://github.com/nora-weisser/api_testing_with_pactumjs)
+Lightweight REST API testing framework using **PactumJS** with schema validation, custom expectations, and CI-friendly test structure.
 
 ### [Contract Testing](https://github.com/nora-weisser/contract-testing-demo)
+Demonstration of **consumer-driven contract testing** using **Pact** with separate consumer and provider services and CI verification.
 
 ---
 
