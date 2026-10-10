@@ -2,7 +2,7 @@
 
 QA Automation Engineer building test automation that teams can trust: fast, stable, and part of everyday development. 5+ years designing frameworks in **Playwright, TypeScript and Python** for security and enterprise SaaS products.
 
-**Now:** QA Automation Engineer at Virtual Vaults · Director and open-source QA lead at [Women Coding Community(https://womencodingcommunity.com)
+**Now:** QA Automation Engineer at Virtual Vaults · Director and open-source QA lead at [Women Coding Community](https://womencodingcommunity.com)
 
 ### 🔧 What I work with
 **Languages:** TypeScript · Python · JavaScript · SQL · Java
