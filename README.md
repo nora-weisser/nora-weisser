@@ -5,10 +5,11 @@ QA Automation Engineer building test automation that teams can trust: fast, stab
 **Now:** QA Automation Engineer at Virtual Vaults · Director and open-source QA lead at [Women Coding Community](https://womencodingcommunity.com)
 
 ### 🔧 What I work with
-**Languages:** TypeScript · Python · JavaScript · SQL · Java
-**Testing:** Playwright · pytest · PactumJS · Pact · REST Assured · Postman · Appium
-**CI/CD:** GitHub Actions · Azure Pipelines · Jenkins · Docker
-**AI-assisted testing:** Claude · GitHub Copilot · MCP
+
+- **Languages:** TypeScript · Python · JavaScript · SQL · Java
+- **Testing:** Playwright · pytest · PactumJS · Pact · REST Assured · Postman · Appium
+- **CI/CD:** GitHub Actions · Azure Pipelines · Jenkins · Docker
+- **AI-assisted testing:** Claude · GitHub Copilot · MCP
 
 ### 📌 Featured projects
 - [**wcc-qa**](https://github.com/Women-Coding-Community/wcc-qa) — open-source QA suite I lead: role-based API and UI tests, schema validation, nightly CI on a fresh Docker stack
